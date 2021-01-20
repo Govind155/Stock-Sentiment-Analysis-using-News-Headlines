@@ -1,4 +1,4 @@
-# Stock-Sentiment-Analysis-using-News-Headlines
+# Stock Sentiment Analysis using News Headlines
 Using News Paper Headlines to predict weather the Next day's news would increase the stock price of a news channel or not.
 
 ## Dataset
